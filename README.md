@@ -28,3 +28,5 @@ This data includes vcf and fasta format files descriptions of which can be found
  * https://en.wikipedia.org/wiki/FASTA_format
 
 Fasta particularly is a very standard and widely used file format with a wide array of parsers. There are parsers for VCF however I think the issue that they all have is that they are designed to parse the entire file which would require a huge amount of compute resource and storage space. We are designing a system to download specific components of the data and convert them to fasta format.
+
+## The workflow
