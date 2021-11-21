@@ -1,0 +1,112 @@
+{
+    "A": {
+        "name": "A*03:01:01:01",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "start": 29910030,
+        "length": 3502,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        }
+    },
+    "B": {
+        "name": "B*07:02:01:01",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "start": 31321138,
+        "length": 4081,
+        "orientation": {
+            "forward": false,
+            "sense": false
+        }
+    },
+    "C": {
+        "name": "C*07:02:01:01",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "start": 31321138,
+        "length": 4081,
+        "orientation": {
+            "forward": false,
+            "sense": false
+        }
+    },
+    "E": {
+        "name": "E*01:03:02:01",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        },
+        "start": 30457008,
+        "length": 3822
+    },
+    "F": {
+        "name": "F*01:03:01:01",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        },
+        "start": 29690940,
+        "length": 3548
+    },
+    "G": {
+        "name": "G*01:01:01:05",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        },
+        "start": 29795321,
+        "length": 3138
+    },
+    "H": {
+        "name": "H*02:04",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        },
+        "start": 29855228,
+        "length": 3510
+    },
+    "J": {
+        "name": "J*01:01:01:04",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        },
+        "start": 29974073,
+        "length": 3544
+    },
+    "K": {
+        "name": "K*01:01:01:01",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        },
+        "start": 29893935,
+        "length": 3552
+    },
+    "DQA1": {
+        "name": "DQA1*01:02:01:01",
+        "reference": "hs37d5",
+        "chromosome": 6,
+        "orientation": {
+            "forward": true,
+            "sense": true
+        },
+        "start": 32604493,
+        "length": 6484
+    }
+}
